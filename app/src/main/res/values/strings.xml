@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ElectronicDrums</string>
+    <string name="bassdrum_label">bassDrum</string>
+    <string name="hihat1_label">HiHat1</string>
+    <string name="hihat2_label">HiHat2</string>
+    <string name="hihat3_label">HiHat3</string>
+    <string name="hihat4_label">HiHat4</string>
+    <string name="perc1_label">Perc1</string>
+    <string name="perc2_label">Perc2</string>
+    <string name="snaredrum_label">SnareDrum</string>
+</resources>
